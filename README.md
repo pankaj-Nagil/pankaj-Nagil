@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pankaj-Nagil
 - 👀 I’m interested in python related projects with thier frameworks.
 - 🌱 I’m currently learning python, c and python related frame works.
-- 💞️ I’m looking to collaborate on blockchain and cool solutions.
+- 💞️ I’m looking to collaborate on blockchain and some custom solutions.
 - 📫 How to reach me mail at coltblaze@gmail.com
 
 <!---
